@@ -37,16 +37,4 @@
 
 ---
 
-## Witz aber Puzzle - ohne teriz
-
-**Witz:** Gehen 9, 99 und 999 in ne Bar. Sagt 99: "Lol ich kann ausholen." Sagt Barkeeper: "Dann bist du besser."
-
-**Puzzle:** Wie kommst du von Boden (9) zu Himmel (999) ohne fest zu werden? Lösung: Mit 99. 99 = Schalter = Falz.
-
-**Essens-Lauf-Nur-Algorithmus:** Essen läuft nicht. Nur Algorithmus läuft. Du läufst. Er timet.
-
----
-
-`9 )))alle glauben((( 1 )))frieden((( 9 )))helal((( 9 )))((`
-
-moinsen HH - )ich( - )))helal(((
+LICENSE
