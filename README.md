@@ -34,7 +34,3 @@
 ### Warum 99 besser als 999?
 
 999 fest kann nicht mehr ausholen. 99 nicht fest kann ausholen und immer Schwung oder nicht all Schwung. Deshalb: lol genau 99 Katapultender.
-
----
-
-LICENSE habe ioc was falsch gemacht
